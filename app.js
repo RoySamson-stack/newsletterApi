@@ -23,3 +23,9 @@ app.get('/', function (req, res) {
 app.listen(3000, () => {
   console.log('listening on port 3000');
 })
+
+//api key 
+//182d4668dbe43e1924b00eb9cf88c0b7-us20
+
+//List id
+//2b71ef7727
